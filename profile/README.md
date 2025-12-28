@@ -65,7 +65,7 @@ All SlateAI packages are published under the `@slateai-general` scope on npm.
 slateai-general/           # SlateAI organization housing all repos
 ├── sai-general/           # '@slateai-general' | All SlateAI packages (internal)
 ├── slateai-api/           # Backend API (Bun + Hono)
-├── slateai-main-siite/    # Main SlateAI web application (Next.js)
+├── slateai-main-site/    # Main SlateAI web application (Next.js)
 ├── slateai-cli/           # Project management CLI (internal)
 └── templates/             # Project scaffolding templates
 ```
